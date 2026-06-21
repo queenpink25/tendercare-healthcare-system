@@ -122,8 +122,6 @@ Returning Patient:
 
 Search Patient → Retrieve History → Book Appointment → Consultation → Update Medical Record → Email Notification
 
-
-
 <img width="308" height="620" alt="image" src="https://github.com/user-attachments/assets/87d89a3c-8932-44fb-aff9-573e07e37f63" />
 
 
@@ -271,5 +269,5 @@ Asasira Queen Pinklen
 
 
 
-Final Year Software Engineering Project
+3.2 MODULE Project
 Tender Care Healthcare Management System
