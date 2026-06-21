@@ -267,9 +267,8 @@ Doctor
 ---
 <img width="352" height="394" alt="image" src="https://github.com/user-attachments/assets/acbe55c4-2f65-409b-89de-7c8d64766c5c" />
 
-<img width="352" height="394" alt="image" src="https://github.com/user-attachments/assets/b8eaad51-fdb3-4a3c-a982-4252ae45eb4d" />
+<img width="321" height="516" alt="image" src="https://github.com/user-attachments/assets/6c0a33e3-3d4c-410f-84ca-0abfbf075df1" />
 
-<img width="352" height="394" alt="image" src="https://github.com/user-attachments/assets/924b849f-c2a3-4b4e-8470-5466d5b7a8db" />
 
 ## Author
 
